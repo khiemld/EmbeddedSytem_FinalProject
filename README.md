@@ -2,7 +2,7 @@
 
 ### Phần cứng
 
-- 1 Raspberry Pi 3 Model B+
+- 1 Raspberry Pi 3 Model B
 - 1 Camera Raspberry Pi V1 OV5647 5M
 - 1 Cảm biến siêu âm HC-SR04
 - 1 Module điều khiển L298N
