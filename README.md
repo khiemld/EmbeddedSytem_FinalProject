@@ -10,7 +10,7 @@
 - 4 Động cơ DC giảm tốc
 - 1 Khung xe, 4 bánh xe, 1 Gá đỡ Camera
 - 1 Pin sạc dự phòng cấp nguồn cho Rasp (Đầu ra tối thiểu 2V)
-- 1 Thẻ nhớ SSD 32 GB (Để cài đặt hệ điều hành cho Rasp)
+- 1 Thẻ nhớ SSD 32 GB kèm đầu đọc thẻ (Để cài đặt hệ điều hành cho Rasp)
 - Dây nối, ốc và các phụ tùng cần thiết
 
 [![SampleModel](https://firebasestorage.googleapis.com/v0/b/can-app-image.appspot.com/o/files%2FSampleModel.jpg?alt=media&token=3b75c1f7-c74c-4bf0-baf0-03f14039e586&_gl=1*ba0qs4*_ga*MTM3MTk0MTM3NC4xNjgyNTI0MzUw*_ga_CW55HF8NVT*MTY4NTUwOTQ4NC43LjEuMTY4NTUwOTU3Ny4wLjAuMA.. "SampleModel")](https://firebasestorage.googleapis.com/v0/b/can-app-image.appspot.com/o/files%2FSampleModel.jpg?alt=media&token=3b75c1f7-c74c-4bf0-baf0-03f14039e586&_gl=1*ba0qs4*_ga*MTM3MTk0MTM3NC4xNjgyNTI0MzUw*_ga_CW55HF8NVT*MTY4NTUwOTQ4NC43LjEuMTY4NTUwOTU3Ny4wLjAuMA.. "SampleModel")
