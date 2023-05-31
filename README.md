@@ -1,4 +1,4 @@
-## THIẾT KẾ XE TỰ HÀNH SỬ DỤNG RASPBERRY PI 3 MODEL B+ ĐỂ DÒ LINE, NHẬN DIỆN BIỂN BÁO VÀ PHÁT HIỆN VẬT CẢN
+## THIẾT KẾ XE TỰ HÀNH SỬ DỤNG RASPBERRY PI 3 MODEL B ĐỂ DÒ LINE, NHẬN DIỆN BIỂN BÁO VÀ PHÁT HIỆN VẬT CẢN
 
 ### Phần cứng
 
